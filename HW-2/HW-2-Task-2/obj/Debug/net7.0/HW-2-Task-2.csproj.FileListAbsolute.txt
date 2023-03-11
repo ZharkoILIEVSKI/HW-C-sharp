@@ -1,0 +1,15 @@
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/HW-2-Task-2.csproj.AssemblyReference.cache
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/HW-2-Task-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/HW-2-Task-2.AssemblyInfoInputs.cache
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/HW-2-Task-2.AssemblyInfo.cs
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/HW-2-Task-2.csproj.CoreCompileInputs.cache
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/bin/Debug/net7.0/HW-2-Task-2
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/bin/Debug/net7.0/HW-2-Task-2.deps.json
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/bin/Debug/net7.0/HW-2-Task-2.runtimeconfig.json
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/bin/Debug/net7.0/HW-2-Task-2.dll
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/bin/Debug/net7.0/HW-2-Task-2.pdb
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/HW-2-Task-2.dll
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/refint/HW-2-Task-2.dll
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/HW-2-Task-2.pdb
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/HW-2-Task-2.genruntimeconfig.cache
+/home/zarko/Документи/HTML (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-2/HW-2-Task-2/obj/Debug/net7.0/ref/HW-2-Task-2.dll
