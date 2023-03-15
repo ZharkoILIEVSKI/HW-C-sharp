@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-2/HW-2-Task-3/HW-2-Task-3.csproj": {}
+    "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj": {}
   },
   "projects": {
-    "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-2/HW-2-Task-3/HW-2-Task-3.csproj": {
+    "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-2/HW-2-Task-3/HW-2-Task-3.csproj",
-        "projectName": "HW-2-Task-3",
-        "projectPath": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-2/HW-2-Task-3/HW-2-Task-3.csproj",
+        "projectUniqueName": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj",
+        "projectName": "HW-3",
+        "projectPath": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj",
         "packagesPath": "/home/zharko/.nuget/packages/",
-        "outputPath": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-2/HW-2-Task-3/obj/",
+        "outputPath": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zharko/.nuget/NuGet/NuGet.Config"
