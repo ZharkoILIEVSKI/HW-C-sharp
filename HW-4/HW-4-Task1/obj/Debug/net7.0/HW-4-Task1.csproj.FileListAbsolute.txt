@@ -1,0 +1,15 @@
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/bin/Debug/net7.0/HW-4-Task1
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/bin/Debug/net7.0/HW-4-Task1.deps.json
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/bin/Debug/net7.0/HW-4-Task1.runtimeconfig.json
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/bin/Debug/net7.0/HW-4-Task1.dll
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/bin/Debug/net7.0/HW-4-Task1.pdb
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/HW-4-Task1.csproj.AssemblyReference.cache
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/HW-4-Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/HW-4-Task1.AssemblyInfoInputs.cache
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/HW-4-Task1.AssemblyInfo.cs
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/HW-4-Task1.csproj.CoreCompileInputs.cache
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/HW-4-Task1.dll
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/refint/HW-4-Task1.dll
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/HW-4-Task1.pdb
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/HW-4-Task1.genruntimeconfig.cache
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-4/HW-4-Task1/obj/Debug/net7.0/ref/HW-4-Task1.dll

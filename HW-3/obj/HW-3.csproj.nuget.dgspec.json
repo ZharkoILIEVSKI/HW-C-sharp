@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj": {}
+    "/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/HW-3.csproj": {}
   },
   "projects": {
-    "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj": {
+    "/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/HW-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj",
+        "projectUniqueName": "/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/HW-3.csproj",
         "projectName": "HW-3",
-        "projectPath": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj",
-        "packagesPath": "/home/zharko/.nuget/packages/",
-        "outputPath": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/obj/",
+        "projectPath": "/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/HW-3.csproj",
+        "packagesPath": "/home/zarko/.nuget/packages/",
+        "outputPath": "/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/zharko/.nuget/NuGet/NuGet.Config"
+          "/home/zarko/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,26 +48,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.3, 7.0.3]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[7.0.3, 7.0.3]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.3, 7.0.3]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZwkvaMAg/wr7wop+zaMyQeMStlVj5zDGmsDZb/+ZoTBPdGcvjuBxF/y3cfF46CJLKP92LdZd8klCugE97vg/cQ==",
+  "dgSpecHash": "i38Pz6s6OvLjkpQKYQlPoTHmPxyRJIUoSbof6LE6zbaCeecwkxtM//bsfSAMXwSm0QX55iIvJiaxYaAXU4bAGQ==",
   "success": true,
-  "projectFilePath": "/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/HW-3.csproj",
-  "expectedPackageFiles": [
-    "/home/zharko/.nuget/packages/microsoft.netcore.app.ref/7.0.3/microsoft.netcore.app.ref.7.0.3.nupkg.sha512",
-    "/home/zharko/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512",
-    "/home/zharko/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.3/microsoft.netcore.app.host.linux-x64.7.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/HW-3.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

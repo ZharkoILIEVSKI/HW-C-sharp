@@ -13,3 +13,18 @@
 /home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.pdb
 /home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.genruntimeconfig.cache
 /home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-3/obj/Debug/net7.0/ref/HW-3.dll
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/bin/Debug/net7.0/HW-3
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/bin/Debug/net7.0/HW-3.deps.json
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/bin/Debug/net7.0/HW-3.runtimeconfig.json
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/bin/Debug/net7.0/HW-3.dll
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/bin/Debug/net7.0/HW-3.pdb
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.csproj.AssemblyReference.cache
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.AssemblyInfoInputs.cache
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.AssemblyInfo.cs
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.csproj.CoreCompileInputs.cache
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.dll
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/refint/HW-3.dll
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.pdb
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/HW-3.genruntimeconfig.cache
+/home/zarko/Документи/SEAVUS domasni raboti/HW-C-sharp/HW-C-sharp/HW-3/obj/Debug/net7.0/ref/HW-3.dll
