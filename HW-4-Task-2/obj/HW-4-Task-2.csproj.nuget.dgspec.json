@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-2/HW-4-Task-2.csproj": {}
+  },
+  "projects": {
+    "/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-2/HW-4-Task-2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-2/HW-4-Task-2.csproj",
+        "projectName": "HW-4-Task-2",
+        "projectPath": "/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-2/HW-4-Task-2.csproj",
+        "packagesPath": "/home/zarko/.nuget/packages/",
+        "outputPath": "/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zarko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
