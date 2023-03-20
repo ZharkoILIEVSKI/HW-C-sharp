@@ -1,0 +1,15 @@
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/HW-4-Task-4.csproj.AssemblyReference.cache
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/HW-4-Task-4.GeneratedMSBuildEditorConfig.editorconfig
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/HW-4-Task-4.AssemblyInfoInputs.cache
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/HW-4-Task-4.AssemblyInfo.cs
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/HW-4-Task-4.csproj.CoreCompileInputs.cache
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/bin/Debug/net6.0/HW-4-Task-4
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/bin/Debug/net6.0/HW-4-Task-4.deps.json
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/bin/Debug/net6.0/HW-4-Task-4.runtimeconfig.json
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/bin/Debug/net6.0/HW-4-Task-4.dll
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/bin/Debug/net6.0/HW-4-Task-4.pdb
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/HW-4-Task-4.dll
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/refint/HW-4-Task-4.dll
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/HW-4-Task-4.pdb
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/HW-4-Task-4.genruntimeconfig.cache
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW-4-Task-4/obj/Debug/net6.0/ref/HW-4-Task-4.dll
