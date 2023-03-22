@@ -1,0 +1,25 @@
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.csproj.AssemblyReference.cache
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.GeneratedMSBuildEditorConfig.editorconfig
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.AssemblyInfoInputs.cache
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.AssemblyInfo.cs
+/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.csproj.CoreCompileInputs.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-5/obj/Debug/net6.0/HW5.csproj.AssemblyReference.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-5/obj/Debug/net6.0/HW5.GeneratedMSBuildEditorConfig.editorconfig
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-5/obj/Debug/net6.0/HW5.AssemblyInfoInputs.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-5/obj/Debug/net6.0/HW5.AssemblyInfo.cs
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW-5/obj/Debug/net6.0/HW5.csproj.CoreCompileInputs.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.csproj.AssemblyReference.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.GeneratedMSBuildEditorConfig.editorconfig
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.AssemblyInfoInputs.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.AssemblyInfo.cs
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.csproj.CoreCompileInputs.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/bin/Debug/net6.0/HW5
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/bin/Debug/net6.0/HW5.deps.json
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/bin/Debug/net6.0/HW5.runtimeconfig.json
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/bin/Debug/net6.0/HW5.dll
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/bin/Debug/net6.0/ref/HW5.dll
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/bin/Debug/net6.0/HW5.pdb
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.dll
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/ref/HW5.dll
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.pdb
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.genruntimeconfig.cache

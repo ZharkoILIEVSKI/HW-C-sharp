@@ -1,5 +1,0 @@
-/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.csproj.AssemblyReference.cache
-/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.GeneratedMSBuildEditorConfig.editorconfig
-/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.AssemblyInfoInputs.cache
-/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.AssemblyInfo.cs
-/home/zarko/Документи/DOMASNI RABOTI (Seavus)/Homeworsk--CSharp/HW-C-sharp/HW5/obj/Debug/net6.0/HW5.csproj.CoreCompileInputs.cache
