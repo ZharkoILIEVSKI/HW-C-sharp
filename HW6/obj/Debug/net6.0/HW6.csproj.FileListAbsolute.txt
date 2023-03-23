@@ -1,0 +1,5 @@
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW6/obj/Debug/net6.0/HW6.csproj.AssemblyReference.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW6/obj/Debug/net6.0/HW6.GeneratedMSBuildEditorConfig.editorconfig
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW6/obj/Debug/net6.0/HW6.AssemblyInfoInputs.cache
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW6/obj/Debug/net6.0/HW6.AssemblyInfo.cs
+/home/zharko/Documents/SEAVUS/Homeworks--Csharp/HW-C-sharp/HW6/obj/Debug/net6.0/HW6.csproj.CoreCompileInputs.cache
